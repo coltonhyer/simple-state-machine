@@ -1,0 +1,23 @@
+{
+  "name": "simple-state-machine",
+  "version": "1.0.0",
+  "description": "A simple state machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coltonhyer/simple-state-machine.git"
+  },
+  "author": "coltonhyer (coltonhyer@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coltonhyer/simple-state-machine/issues"
+  },
+  "homepage": "https://github.com/coltonhyer/simple-state-machine#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
