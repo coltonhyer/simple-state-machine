@@ -16,8 +16,10 @@
     "url": "https://github.com/coltonhyer/simple-state-machine/issues"
   },
   "homepage": "https://github.com/coltonhyer/simple-state-machine#readme",
-  "dependencies": {},
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "typedoc-plugin-merge-modules": "^5.1.0",
+    "typedoc-plugin-rename-defaults": "^0.7.0",
+    "typescript": "^5.3.3"
   }
 }
