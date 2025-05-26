@@ -1,0 +1,11 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "entryPoints": ["./src"],
+    "entryPointStrategy": "expand",
+    "out": "docs",
+    "cleanOutputDir": true,
+    "plugin": [
+        "typedoc-plugin-rename-defaults",
+        "typedoc-plugin-merge-modules"
+    ]
+}
