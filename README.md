@@ -1,6 +1,6 @@
 A simple finite state machine library for managing predictable state transitions.
 
-## Getting Started
+## Usage
 
 ### Initialize
 
